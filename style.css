@@ -1,0 +1,381 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1170px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.logo {
+    width: 110px;
+    float: left;
+    padding-right: 460px;
+}
+
+header.primaryMenue {
+    background: #0951A0;
+    padding-bottom: 140px;
+    padding-top: 70px;
+}
+
+.menues {
+    width: 600px;
+    float: left;
+}
+
+.menues ul li {
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    padding-right: 15px;
+    padding-left: 40px;
+}
+
+.logo h3 {
+    color: white;
+    font-family: system-ui;
+    font-size: 40px;
+}
+
+.menues ul li a {
+    color: white;
+    font-family: system-ui;
+    font-size: 20px;
+}
+
+section#contat {
+    background: #0951A0;
+    height: 330px;
+    border-bottom-right-radius: 180px;
+    margin-bottom: 60px;
+}
+
+.contats {
+    text-align: center;
+}
+
+span {
+    color: white;
+    font-family: system-ui;
+    font-size: 22px;
+}
+
+.contats h3 {
+    margin-top: 20px;
+}
+
+.contats h1 {
+    color: white;
+    font-family: system-ui;
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.contats p {
+    width: 595px;
+    margin: auto;
+    color: white;
+    font-family: system-ui;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.image img {
+    width: 100%;
+}
+
+.image {
+    width: 550px;
+    margin-right: 65px;
+    float: left;
+}
+
+.login input {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 155px;
+    outline: none;
+    border: none;
+    margin-bottom: 40px;
+    font-family: system-ui;
+    font-weight: 500;
+    font-size: 25px;
+    background: #F8F5F5;
+    border-bottom-right-radius: 60px;
+}
+
+span.us h3 {
+    color: black;
+    text-align: center;
+    font-family: system-ui;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.contact {
+    margin-bottom: 60px;
+}
+
+.login {
+    padding-top: 80px;
+}
+
+select {
+    outline: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 342px;
+    border: none;
+    background: #f8f5f5;
+    border-bottom-right-radius: 60px;
+    margin-bottom: 40px;
+    font-family: system-ui;
+    font-size: 25px;
+    appearance: none;
+}
+
+textarea {
+    border: none;
+    outline: none;
+    resize: none;
+    border-bottom-right-radius: 60px;
+    background: #f8f5f5;
+    font-family: system-ui;
+    padding-top: 25px;
+    padding-left: 30px;
+    font-size: 25px;
+}
+
+.free {margin-left: 615px;margin-top: 30px;}
+
+
+button#freeBtn {
+    padding: 15px 50px;
+    border-radius: 30px;
+    background: #0951A0;
+    outline: none;
+    border: none;
+    box-shadow: 0px 1px 4px 0px;
+    margin-bottom: 300px;
+}
+
+button#freeBtn a {
+    color: WHITE;
+    font-family: system-ui;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.ftrLogo {
+    width: 200px;
+    float: left;
+    margin-right: 85px;
+}
+
+.menue {
+    width: 130px;
+    float: left;
+    margin-right: 155px;
+    overflow: hidden;
+}
+
+.bightAccount {
+    width: 300px;
+    float: left;
+    margin-right: 105px;
+}
+
+.media {
+    width: 195px;
+    float: left;
+}
+
+footer#footer {
+    height: 400px;
+    background: #0951A0;
+    padding-top: 300px;
+    border-top-left-radius: 180px;
+    position: relative;
+}
+
+span.language {
+    font-size: 12px;
+    float: left;
+    margin-top: 5px;
+    font-family: system-ui;
+    margin-right: 10px;
+    color: #80A5CE;
+    font-weight: 700;
+}
+
+.ftrLogo h3 {
+    color: white;
+    font-family: system-ui;
+    font-weight: 400;
+}
+
+.ftrLogo h3 i {
+    font-size: 12px;
+    margin-left: 5px;
+}
+
+.ftrLogo h1 {
+    color: white;
+    font-family: system-ui;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.menue ul li:first-child {
+    font-size: 40px;
+    color: white;
+    font-family: system-ui;
+    font-weight: 400;
+}
+
+.menue ul li {
+    margin-bottom: 30px;
+    color: white;
+    font-size: 20px;
+    font-family: system-ui;
+}
+
+.bContact h1 {
+    color: white;
+    font-family: system-ui;
+    margin-bottom: 40px;
+    margin-top: 7px;
+    font-weight: 400;
+}
+
+.ftrButton button {
+    padding: 15px 50px;
+    border-radius: 30px;
+    background: white;
+    outline: none;
+    border: none;
+    margin-bottom: 30px;
+}
+
+.ftrButton button a {
+    color: #0951A0;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    font-family: system-ui;
+}
+
+.social h1 {
+    color: white;
+    font-family: system-ui;
+    margin-top: 7px;
+    font-weight: 400;
+}
+
+.social {
+    margin-bottom: 45px;
+}
+
+.socialIcons a i {
+    width: 20px;
+    padding: 12px;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-right: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+section#copyRight {
+    background: #0951A0;
+}
+
+.border {
+    border-top: 1px solid #80A5CE;
+}
+
+.border h3 {
+    color: white;
+    font-family: system-ui;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.boxTextWrapper {
+    height: 300px;
+    position: absolute;
+    z-index: 1;
+    width: 1170px;
+    margin-top: -147px;
+    background: white;
+    box-shadow: -5px -15px 10px -9px #EDEEF9;
+    border-bottom-right-radius: 140px;
+}
+
+.leftTexe {
+    margin-left: 60px;
+    float: left;
+    width: 400px;
+    margin-top: 55px;
+}
+
+.leftTexe h3 {
+    font-family: system-ui;
+    letter-spacing: 2px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.leftTexe h1 {
+    color: #075BA8;
+    font-family: system-ui;
+    letter-spacing: 3px;
+    font-weight: 600;
+    font-size: 34px;
+}
+
+input.mail {
+    padding: 20px 80px;
+    border-radius: 30px;
+    font-size: 20px;
+    text-align: left;
+    letter-spacing: 2px;
+    font-family: system-ui;
+    outline: none;
+    border: none;
+    background: #F9F6F6;
+    position: relative;
+}
+
+.mailbox {margin-top: 115px;margin-left: 640px;}
+
+.mailbox i {
+    width: 25px;
+    padding: 30px;
+    background: #075AA7;
+    color: white;
+    border-radius: 50%;
+    font-size: 25px;
+    text-align: center;
+    position: absolute;
+    margin-top: -12px;
+    margin-left: -30px;
+}
+
+
+
+
+
+
